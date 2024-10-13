@@ -1,0 +1,1 @@
+Landing page da empresa fictícia "Sparkle" que provê soluções aos seus clientes.
