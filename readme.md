@@ -1,1 +1,1 @@
-Landing page da empresa fictícia "Sparkle" que provê soluções digitais aos seus clientes.
+Landing page simples feita em HTML e CSS sobre a "Sparkle", empresa que provê soluções digitais aos seus clientes.
